@@ -1,0 +1,62 @@
+﻿  Application.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\SDK\glfw-3.3.2.bin.WIN32\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Application.h(29,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Application.h(29,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Application.cpp(47,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Application.cpp(84,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Application.cpp(95,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Color.cpp
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Color.cpp(5,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameObject.cpp
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Sprite.h(35,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Sprite.h(35,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Matrix.cpp
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ParticleAffector.cpp
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Sprite.h(35,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Sprite.h(35,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  ParticleEmitter.cpp
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\ParticleEmitter.cpp(20,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\ParticleEmitter.cpp(20,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\ParticleEmitter.cpp(38,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\ParticleEmitter.cpp(38,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ParticleObject.cpp
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Sprite.h(35,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Sprite.h(35,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  ParticleSystem.cpp
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Sprite.h(35,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Sprite.h(35,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\ParticleSystem.cpp(93,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\ParticleSystem.cpp(93,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\ParticleSystem.cpp(85,8): warning C4101: 'RandLifetime': unreferenced local variable
+  Sprite.cpp
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Sprite.h(35,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Sprite.h(35,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Sprite.cpp(5,16): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\GameEngine\Sprite.cpp(6,16): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+glu32.lib(GLU32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+Photon-cpp_vc14_debug_windows_md_Win32.lib(bcrypt.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+Photon-cpp_vc14_debug_windows_md_Win32.lib(WINMM.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+Photon-cpp_vc14_debug_windows_md_Win32.lib(urlmon.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+Photon-cpp_vc14_debug_windows_md_Win32.lib(WS2_32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+Photon-cpp_vc14_debug_windows_md_Win32.lib(WININET.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+  GameEngine.vcxproj -> C:\Users\fyr3f\Desktop\DataCom\Tic-Tac-Toe\TicTacToe\Debug\GameEngine.lib
